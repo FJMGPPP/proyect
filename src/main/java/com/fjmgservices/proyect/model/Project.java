@@ -22,8 +22,8 @@ public class Project
     private String title;
     @Column(name = "description")
     private String description;
-    @Column(name = "urlPort")
-    private String urlPort;
+    @Column(name = "url_port")
+    private String url_port;
     @Column(name = "progress")
     private int progress;
 
